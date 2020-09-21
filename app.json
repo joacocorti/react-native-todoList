@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "DoneWithIt",
-    "slug": "DoneWithIt",
+    "name": "ToDoList",
+    "slug": "ToDoList",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "simple todo list you can add something, mark it done or  not with a tap or delete it",
+    "githubUrl": "https://github.com/joacocorti/react-native-todoList"
   }
 }
